@@ -11,9 +11,9 @@ var router = gin.Default()
 func main() {
 	router.Use(cors.Default())
 	defer router.Run()
-	router.GET("/", todo.GetTodos)
+	router.GET("/todo", todo.GetTodos)
 	router.POST("/todo", todo.AddTodo)
-	router.DELETE("/todo", todo.DeleteTodo)
+	router.POST("/deletetodo", todo.DeleteTodo)
 	router.PUT("/todo", todo.UpdateTodo)
 
 }

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/front-end" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/golang-react-to-do" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/front-end" vcs="" />
+    <mapping directory="$PROJECT_DIR$/golang-react-to-do" vcs="" />
   </component>
 </project>

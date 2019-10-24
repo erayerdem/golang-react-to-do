@@ -2,100 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ffd6d89-a627-43a8-ae26-80b23667072b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9c6151f9-1574-45de-a706-db0118d0ac8a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9c6151f9-1574-45de-a706-db0118d0ac8a/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/goapplication.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/models.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/UPGRADE_GUIDE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/adapters/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/adapters/http.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/adapters/xhr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/axios.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/cancel/Cancel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/cancel/CancelToken.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/cancel/isCancel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/Axios.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/InterceptorManager.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/createError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/dispatchRequest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/enhanceError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/mergeConfig.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/settle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/transformData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/defaults.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/bind.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/buildURL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/combineURLs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/cookies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/deprecatedMethod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/isAbsoluteURL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/isURLSameOrigin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/normalizeHeaderName.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/parseHeaders.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/spread.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/.coveralls.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/debug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/http.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/https.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-buffer/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-buffer/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-buffer/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-buffer/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-buffer/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ms/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ms/license.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ms/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ms/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/create.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/goapplication.go" beforeDir="false" afterPath="$PROJECT_DIR$/main/goapplication.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/service.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +30,17 @@
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mysql123: schema" type="76f4a085:MysqlImplModel$Schema" />
       </path>
     </expand>
     <select />
@@ -157,6 +81,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -248,38 +173,38 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="738" y="314" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1571660560213" />
-    <state width="1607" height="154" key="GridCell.Tab.0.bottom" timestamp="1571878081174">
+    <state width="1874" height="381" key="GridCell.Tab.0.bottom" timestamp="1571918132125">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1607" height="154" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1571878081174" />
-    <state width="1607" height="154" key="GridCell.Tab.0.center" timestamp="1571878081173">
+    <state width="1874" height="381" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1571918132125" />
+    <state width="1874" height="381" key="GridCell.Tab.0.center" timestamp="1571918132124">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1607" height="154" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1571878081173" />
-    <state width="1607" height="154" key="GridCell.Tab.0.left" timestamp="1571878081172">
+    <state width="1874" height="381" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1571918132124" />
+    <state width="1874" height="381" key="GridCell.Tab.0.left" timestamp="1571918132123">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1607" height="154" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1571878081172" />
-    <state width="1607" height="154" key="GridCell.Tab.0.right" timestamp="1571878081173">
+    <state width="1874" height="381" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1571918132123" />
+    <state width="1874" height="381" key="GridCell.Tab.0.right" timestamp="1571918132124">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1607" height="154" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1571878081173" />
+    <state width="1874" height="381" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1571918132124" />
     <state width="327" height="500" key="HiddenNamespacesPopup" timestamp="1571873427793">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="327" height="500" key="HiddenNamespacesPopup/0.27.1920.1053@0.27.1920.1053" timestamp="1571873427793" />
-    <state x="419" y="181" width="1022" height="737" key="SettingsEditor" timestamp="1571878216741">
+    <state x="419" y="181" width="1022" height="737" key="SettingsEditor" timestamp="1571914011588">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="419" y="181" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1571878216741" />
-    <state x="689" y="284" width="624" height="524" key="StructurePopup" timestamp="1571663640058">
+    <state x="419" y="181" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1571914011588" />
+    <state x="689" y="284" width="624" height="524" key="StructurePopup" timestamp="1571916573329">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="689" y="284" width="624" height="524" key="StructurePopup/0.27.1920.1053@0.27.1920.1053" timestamp="1571663640058" />
-    <state x="829" y="428" width="252" height="258" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1571683791596">
+    <state x="689" y="284" width="624" height="524" key="StructurePopup/0.27.1920.1053@0.27.1920.1053" timestamp="1571916573329" />
+    <state x="829" y="428" width="252" height="258" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1571918080921">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="829" y="428" width="252" height="258" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.27.1920.1053@0.27.1920.1053" timestamp="1571683791596" />
+    <state x="829" y="428" width="252" height="258" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.27.1920.1053@0.27.1920.1053" timestamp="1571918080921" />
     <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1571683747278">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

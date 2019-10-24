@@ -6,3 +6,4 @@ create table todos
     completed BOOLEAN NOT NULL
 )
 
+
